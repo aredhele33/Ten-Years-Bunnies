@@ -145,7 +145,7 @@ int BunApplication::GameLoop()
     // smooth motion on 60Hz+ monitors. If the game is slow,
     // The logic update loop will catch up and we will start
     // losing frames to keep a consistent simulation.
-    const sf::Time timeStep(sf::seconds(1.f / 60.0f));
+    const sf::Time timeStep(sf::seconds(1.f / s_FixedStepCount));
     while (m_RenderWindow->isOpen())
     {
         const sf::Time current = clock.getElapsedTime();
