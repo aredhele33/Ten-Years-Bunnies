@@ -115,7 +115,7 @@ However, this challenge comes with some constraints :
 ---
 * Windows 11 Pro
 * i7-11700K
-* RTX 3000 Ti
+* RTX 3080 Ti
 
 This is what I have with the base program (almost 100K, frustrating): 
 
