@@ -1,0 +1,58 @@
+# file      .gitignore
+# project   TenYearsBunnies
+# module    None
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.lib
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Exclude visual studio related files
+.vs
+*.exp
+*.ilk
+*.pdb
+*.iobj
+*.vcxproj*
+
+# Exclude ImGui related files
+*.ini
+
+# Exclude IDE specific folders
+.idea/
+
+# Exclde Visual studio CMake temp folder
+out/
+
+# Exclude project generated folders
+Libraries/
+Temporaries/
+
+# Exclude CMake temporary folders
+cmake-*
