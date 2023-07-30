@@ -85,7 +85,7 @@ here
 </a>
 , otherwise, you will have linker errors.
 
-## L'application
+## The application
 
 To make this challenge interesting, I created this program as I would have created it 10 years ago.
 There is no optimization and very few lines of code. The program itself is composed of 10 files :
