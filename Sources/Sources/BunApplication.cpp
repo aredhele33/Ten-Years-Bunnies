@@ -142,7 +142,7 @@ int BunApplication::GameLoop()
     // Fixed time step game loop.
     // We will update the game logic 60 times per second.
     // But we will render the game as much as we can to get 
-    // smooth motion on 60Hz+ monitors. If the game is slow,
+    // smooth motion with position interpolation. If the game is slow,
     // The logic update loop will catch up and we will start
     // losing frames to keep a consistent simulation.
     const sf::Time timeStep(sf::seconds(1.f / s_FixedStepCount));
