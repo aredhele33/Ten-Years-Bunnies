@@ -1,6 +1,6 @@
 # Ten Years Bunnies
 
-<p style="text-align: center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Aredhele/Ten-Years-Bunnies/main/Press/000004_Ten_Years_Bunnies.gif" alt="Banner"/>
 </p>
 
