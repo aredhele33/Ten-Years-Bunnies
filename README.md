@@ -1,7 +1,7 @@
 # Ten Years Bunnies
 
 <p style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Ten-Years-Bunnies/main/Press/000004_Ten_Years_Bunnies.gif" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Ten-Years-Bunnies/main/Press/000004_Ten_Years_Bunnies.gif" alt="Banner"/>
 </p>
 
 #### (Fr - English follows)
@@ -38,7 +38,7 @@ Pour rendre ce défi amusant, j'ai créé une application de base de la façon d
 Il n'y a aucune optimisation et très peu de code. L'application elle-même est constituée de 10 fichiers :
 
 <p style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Ten-Years-Bunnies/main/Press/000002_Ten_Years_Bunnies.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Ten-Years-Bunnies/main/Press/000002_Ten_Years_Bunnies.png" alt="Banner"/>
 </p>
 
 Sans rentrer dans les détails :
@@ -91,7 +91,7 @@ To make this challenge interesting, I created this program as I would have creat
 There is no optimization and very few lines of code. The program itself is composed of 10 files :
 
 <p style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Ten-Years-Bunnies/main/Press/000002_Ten_Years_Bunnies.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Ten-Years-Bunnies/main/Press/000002_Ten_Years_Bunnies.png" alt="Banner"/>
 </p>
 
 Without going into details :
@@ -120,5 +120,5 @@ However, this challenge comes with some constraints :
 This is what I have with the base program (almost 100K, frustrating): 
 
 <p style="text-align: center">
-  <img src="https://raw.githubusercontent.com/Aredhele/Ten-Years-Bunnies/main/Press/000003_Ten_Years_Bunnies.png" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/aredhele33/Ten-Years-Bunnies/main/Press/000003_Ten_Years_Bunnies.png" alt="Banner"/>
 </p>
